@@ -1,5 +1,14 @@
-.App {
+.app {
   text-align: center;
+  background-color: brown;
+}
+
+.app__bio {
+  color : greenyellow;
+}
+
+.app__header {
+  color: aqua;
 }
 
 .App-logo {
